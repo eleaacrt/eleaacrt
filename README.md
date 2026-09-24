@@ -1,4 +1,4 @@
-# Hi 👋, I'm Eléa !!
+# Hi, I'm Eléa ☀!!
 
 ### IMAC engineering student (Image, Multimedia, Audiovisual and Communication) focused on software development and visual design.
 

@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://github.com/eleaacrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eleaacrt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/elea-crunchant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elea-crunchant" height="30" width="40" /></a>
-<a href="https://discord.gg/eleaacrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eleaacrt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

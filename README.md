@@ -1,6 +1,6 @@
-# Hi 👋, I'm Eléa Crunchant
+# Hi 👋, I'm Eléa !!
 
-### Étudiante ingénieure IMAC en développement logiciel et création visuelle.
+### IMAC engineering student (Image, Multimedia, Audiovisual and Communication) focused on software development and visual design.
 
 - 🔭 I'm currently working on **a few new projects, stay tuned!**
 
